@@ -1,0 +1,12 @@
+title: KumaCode
+email: info@kumacode.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Web and mobile software development.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.kumacode.co.uk" # the base hostname & protocol for your site
+twitter_username: kumacode_uk
+github_username:  kumacodeuk
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
